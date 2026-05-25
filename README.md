@@ -85,6 +85,10 @@ Main types of fields analyzed:
 - Delivery time
 - Order status
 
+- > Note: This project is based on a public ecommerce dataset found on Kaggle. The analysis was structured as a business case study for Data Analytics portfolio purposes.
+
+**Dataset source:** [Kaggle - Olist Brazilian Ecommerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ---
 
 ## Analysis Process
@@ -120,10 +124,6 @@ The main metrics analyzed include:
 - Seller risk indicators
 
 ---
-
-> Note: This project is based on a public ecommerce dataset found on Kaggle. The analysis was structured as a business case study for Data Analytics portfolio purposes.
-
-**Dataset source:** [Kaggle - Olist Brazilian Ecommerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## SQL Analysis
 
