@@ -121,6 +121,10 @@ The main metrics analyzed include:
 
 ---
 
+> Note: This project is based on a public ecommerce dataset found on Kaggle. The analysis was structured as a business case study for Data Analytics portfolio purposes.
+
+**Dataset source:** [Kaggle - Olist Brazilian Ecommerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ## SQL Analysis
 
 The SQL analysis is organized around the four business questions:
