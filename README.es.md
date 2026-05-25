@@ -85,6 +85,10 @@ Principales tipos de campos analizados:
 - Tiempo de entrega
 - Estado de la orden
 
+- > Nota: Este proyecto está basado en un dataset público de ecommerce encontrado en Kaggle. El análisis fue estructurado como un caso de negocio para portafolio de Data Analytics.
+
+**Fuente del dataset:** [Kaggle - Olist Brazilian Ecommerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ---
 
 ## Proceso de Análisis
